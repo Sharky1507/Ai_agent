@@ -2,7 +2,7 @@
 
 A Streamlit application that uses Generative AI (Gemini) to analyze and visualize data based on natural language questions.
 
-Demo: https://drive.google.com/drive/u/0/folders/1v43LGkNnoF2qvfamt8_OgBiFZKeYWUWS
+Demo: [https://drive.google.com/file/d/1NwPYTlofhtSLXNh0iYMViWC2RBIc4beS/view?usp=drive_link](https://drive.google.com/file/d/1NwPYTlofhtSLXNh0iYMViWC2RBIc4beS/view?usp=drive_link)
 
 ## Features
 
