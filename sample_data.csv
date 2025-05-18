@@ -1,0 +1,31 @@
+date,product,region,sales,units,customer_type
+2025-01-01,Widget A,North,1500,30,Enterprise
+2025-01-02,Widget B,South,2300,45,Small Business
+2025-01-03,Widget A,East,1800,35,Enterprise
+2025-01-04,Widget C,West,3100,60,Consumer
+2025-01-05,Widget B,North,2700,52,Enterprise
+2025-01-06,Widget C,South,2900,58,Small Business
+2025-01-07,Widget A,East,1600,32,Consumer
+2025-01-08,Widget B,West,2200,44,Enterprise
+2025-01-09,Widget C,North,3000,59,Small Business
+2025-01-10,Widget A,South,1400,28,Consumer
+2025-01-11,Widget B,East,2500,49,Enterprise
+2025-01-12,Widget C,West,3200,63,Small Business
+2025-01-13,Widget A,North,1700,34,Consumer
+2025-01-14,Widget B,South,2400,47,Enterprise
+2025-01-15,Widget C,East,3300,65,Small Business
+2025-01-16,Widget A,West,1900,37,Consumer
+2025-01-17,Widget B,North,2600,51,Enterprise
+2025-01-18,Widget C,South,3400,67,Small Business
+2025-01-19,Widget A,East,2000,39,Consumer
+2025-01-20,Widget B,West,2800,55,Enterprise
+2025-01-21,Widget C,North,3500,69,Small Business
+2025-01-22,Widget A,South,2100,41,Consumer
+2025-01-23,Widget B,East,2900,56,Enterprise
+2025-01-24,Widget C,West,3600,71,Small Business
+2025-01-25,Widget A,North,2200,43,Consumer
+2025-01-26,Widget B,South,3000,58,Enterprise
+2025-01-27,Widget C,East,3700,73,Small Business
+2025-01-28,Widget A,West,2300,45,Consumer
+2025-01-29,Widget B,North,3100,60,Enterprise
+2025-01-30,Widget C,South,3800,75,Small Business

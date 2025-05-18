@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+openpyxl
+langchain>=0.1.0
+google-generativeai>=0.3.0
+python-dotenv
+pydantic
+langchain_google_genai>=0.0.5
